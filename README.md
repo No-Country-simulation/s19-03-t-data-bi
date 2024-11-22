@@ -5,7 +5,7 @@
 # <h1 align="center">**`Sistema de Recomendacion de Comercios Gastronomicos`**</h1>
 
 <p align='center'>
-<img src ="/content/yelp.jpg" width="11000px" height="450px">
+<img src ="yelp.jpg" width="11000px" height="450px">
 <p>
 
 # Índice
